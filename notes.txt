@@ -1,0 +1,9 @@
+upload changes frequently.
+
+Commit changes to local repo.
+
+push changes to GitHub:
+$ git push
+
+push changes to Heroku:
+$ git push heroku
